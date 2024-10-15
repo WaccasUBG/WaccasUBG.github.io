@@ -64,7 +64,7 @@ insertHTMLIntoBody();
     //if (!customisationData || customisationData.split('\n')[1] === '') {
         //const defaultCustomisation = [
             //'/background.png',  // Default background image
-            //'#111E2C',          // Default primary color
+            //'#D52C1E',          // Default primary color
           //  '#FFCC14',          // Default secondary color
         //    '1280'              // Default background resolution
       //  ].join('\n');
