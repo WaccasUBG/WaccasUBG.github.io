@@ -65,7 +65,7 @@ insertHTMLIntoBody();
         //const defaultCustomisation = [
             //'/background.png',  // Default background image
             //'#111E2C',          // Default primary color
-          //  '#58AAFC',          // Default secondary color
+          //  '#FFCC14',          // Default secondary color
         //    '1280'              // Default background resolution
       //  ].join('\n');
 
