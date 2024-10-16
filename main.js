@@ -514,7 +514,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        '/background.png',  // Default background image
+        'https://wallpapertag.com/wallpaper/full/2/1/2/156687-most-popular-white-gradient-background-1920x1200-photo.jpg',  // Default background image
         '#000000',          // Default primary color
         '#A7B1A6',          // Default secondary color
         '1280'              // Default background resolution
