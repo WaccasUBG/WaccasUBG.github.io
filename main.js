@@ -515,8 +515,8 @@ document.addEventListener('DOMContentLoaded', function () {
     // Default customization settings
     const defaultCustomisation = [
         'https://i.ytimg.com/vi/e3zlkfOJb7Y/maxresdefault.jpg',  // Default background image
-        '#D52C1E',          // Default primary color
-        '#58AAFC',          // Default secondary color
+        '#FFCC14',          // Default primary color
+        '#D52C1F',          // Default secondary color
         '1280'              // Default background resolution
     ].join('\n');
 
