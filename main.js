@@ -514,7 +514,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        'https://i.ytimg.com/vi/e3zlkfOJb7Y/maxresdefault.jpg',  // Default background image
+        'https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F555433%2Ffast-food-hamburger-fries-drink-getty.jpg&op=resize&w=700',  // Default background image
         '#FFCC14',          // Default primary color
         '#D52C1F',          // Default secondary color
         '1280'              // Default background resolution
