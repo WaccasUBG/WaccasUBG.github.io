@@ -517,7 +517,7 @@ document.addEventListener('DOMContentLoaded', function () {
         'https://media.istockphoto.com/id/1302642699/vector/abstract-red-vector-background-with-stripes-can-be-used-for-cover-design-poster-and.jpg?s=612x612&w=0&k=20&c=3cQPZx57nAV0f1evtuRk9p2EgmAVGb_A063Htb2_Gtw=',  // Default background image
         '#FFCC14',          // Default primary color
         '#D52C1E',          // Default secondary color
-        '1280'              // Default background resolution
+        '1600'              // Default background resolution
     ].join('\n');
 
     // Store the default values in the "customisation" key in localStorage
