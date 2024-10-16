@@ -64,7 +64,7 @@ insertHTMLIntoBody();
     //if (!customisationData || customisationData.split('\n')[1] === '') {
         //const defaultCustomisation = [
             //'/background.png',  // Default background image
-            //'#D52C1F',          // Default primary color
+            //'#D52C1E',          // Default primary color
           //  '#FFCC14',          // Default secondary color
         //    '1280'              // Default background resolution
       //  ].join('\n');
@@ -514,9 +514,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        'https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F555433%2Ffast-food-hamburger-fries-drink-getty.jpg&op=resize&w=700',  // Default background image
+        'https://media.istockphoto.com/id/1302642699/vector/abstract-red-vector-background-with-stripes-can-be-used-for-cover-design-poster-and.jpg?s=612x612&w=0&k=20&c=3cQPZx57nAV0f1evtuRk9p2EgmAVGb_A063Htb2_Gtw=',  // Default background image
         '#FFCC14',          // Default primary color
-        '#D52C1F',          // Default secondary color
+        '#D52C1E',          // Default secondary color
         '1280'              // Default background resolution
     ].join('\n');
 
